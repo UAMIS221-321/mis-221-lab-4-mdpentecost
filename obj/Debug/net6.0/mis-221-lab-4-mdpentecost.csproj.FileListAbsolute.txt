@@ -1,0 +1,15 @@
+/Users/micahpentecost/MIS221/mis-221-lab-4-mdpentecost/obj/Debug/net6.0/mis-221-lab-4-mdpentecost.csproj.AssemblyReference.cache
+/Users/micahpentecost/MIS221/mis-221-lab-4-mdpentecost/obj/Debug/net6.0/mis-221-lab-4-mdpentecost.GeneratedMSBuildEditorConfig.editorconfig
+/Users/micahpentecost/MIS221/mis-221-lab-4-mdpentecost/obj/Debug/net6.0/mis-221-lab-4-mdpentecost.AssemblyInfoInputs.cache
+/Users/micahpentecost/MIS221/mis-221-lab-4-mdpentecost/obj/Debug/net6.0/mis-221-lab-4-mdpentecost.AssemblyInfo.cs
+/Users/micahpentecost/MIS221/mis-221-lab-4-mdpentecost/obj/Debug/net6.0/mis-221-lab-4-mdpentecost.csproj.CoreCompileInputs.cache
+/Users/micahpentecost/MIS221/mis-221-lab-4-mdpentecost/bin/Debug/net6.0/mis-221-lab-4-mdpentecost
+/Users/micahpentecost/MIS221/mis-221-lab-4-mdpentecost/bin/Debug/net6.0/mis-221-lab-4-mdpentecost.deps.json
+/Users/micahpentecost/MIS221/mis-221-lab-4-mdpentecost/bin/Debug/net6.0/mis-221-lab-4-mdpentecost.runtimeconfig.json
+/Users/micahpentecost/MIS221/mis-221-lab-4-mdpentecost/bin/Debug/net6.0/mis-221-lab-4-mdpentecost.dll
+/Users/micahpentecost/MIS221/mis-221-lab-4-mdpentecost/bin/Debug/net6.0/ref/mis-221-lab-4-mdpentecost.dll
+/Users/micahpentecost/MIS221/mis-221-lab-4-mdpentecost/bin/Debug/net6.0/mis-221-lab-4-mdpentecost.pdb
+/Users/micahpentecost/MIS221/mis-221-lab-4-mdpentecost/obj/Debug/net6.0/mis-221-lab-4-mdpentecost.dll
+/Users/micahpentecost/MIS221/mis-221-lab-4-mdpentecost/obj/Debug/net6.0/ref/mis-221-lab-4-mdpentecost.dll
+/Users/micahpentecost/MIS221/mis-221-lab-4-mdpentecost/obj/Debug/net6.0/mis-221-lab-4-mdpentecost.pdb
+/Users/micahpentecost/MIS221/mis-221-lab-4-mdpentecost/obj/Debug/net6.0/mis-221-lab-4-mdpentecost.genruntimeconfig.cache
